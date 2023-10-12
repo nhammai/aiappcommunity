@@ -1,4 +1,4 @@
-# AI APP Community - Building an Amazing Future Together 🚀
+# AI APP Community - Build an Amazing Future Together 🚀
 
 ![Doraemon wallpaper](doraemon.jpg)
 
