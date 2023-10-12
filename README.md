@@ -1,5 +1,7 @@
 # AI APP Community - Building an Amazing Future Together 🚀
 
+![Doraemon wallpaper](doraemon.jpg)
+
 
 ## AI Development Tools 🛠️
 - [Open AI API](https://platform.openai.com/)
