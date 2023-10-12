@@ -1,15 +1,6 @@
 # AI APP Community - Building an Amazing Future Together 🚀
 
 
-## Table of Contents
-1. [AI Development Tools 🛠️](#ai-development-tools)
-2. [Recommended Books 📚](#recommended-books)
-3. [Courses 📓](#courses)
-4. [Tutorials 🎓](#tutorials)
-5. [Projects 🌐](#projects)
-6. [Join Our Community 🤝](#community)
-7. [Useful Links 🔗](#useful-links)
-
 ## AI Development Tools 🛠️
 - [Open AI API](https://platform.openai.com/)
 - [LangChain](https://python.langchain.com/docs/get_started/introduction)
@@ -34,7 +25,10 @@ Explore AI projects contributed by our community members. Contribute to existing
 We're not just a community; we're a family passionate about AI. Connect with like-minded individuals, share your ideas, and collaborate on groundbreaking projects.
 
 ## Useful Links 🔗
-Find additional resources, AI news, and events that will keep you informed and inspired.
+
+- [Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers)
+
+
 
 Feel free to fork this repository, share your AI knowledge, and help us build an incredible future together. Together, we can make AI accessible to all!
 
