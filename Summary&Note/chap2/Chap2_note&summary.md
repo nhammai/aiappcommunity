@@ -24,7 +24,10 @@ Phương thức lập trình sẽ là tương tác với gpt bằng **prompt** �
 
 ### Chọn model
 
+Tuỳ vào nhu cầu mà ta chọn model khác nhau
+
 Lựa chọn nhiều nhất là **gpt-3.5-turbo** đã được cải thiện hơn nhiều và rẻ hơn 50 lần so với **gpt4** thời điểm hiện tại
+
 
 Khi đó ta sẽ chọn ở trong code là: 
 
