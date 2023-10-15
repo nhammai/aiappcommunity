@@ -17,6 +17,8 @@ Discover online courses that can help you master the art of AI. We've curated a 
 ## Tutorials 🎓
 - [AI Jason](https://www.youtube.com/@AIJasonZ)
 - [1littlecoder](https://www.youtube.com/@1littlecoder)
+- [GPT-4 API Crash Course](https://www.youtube.com/watch?v=hmTjZ8FvkfQ)
+  
 
 
 
@@ -30,6 +32,7 @@ We're not just a community; we're a family passionate about AI. Connect with lik
 
 - [Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers)
 
+- [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
 
 
 Feel free to fork this repository, share your AI knowledge, and help us build an incredible future together. Together, we can make AI accessible to all!
